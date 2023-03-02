@@ -1,7 +1,5 @@
 This is Test 1
 This is test 1 second line
 This is test 3rd line
-
 Logo Alignment centered
-
 new line is added in feature branch
